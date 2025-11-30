@@ -54,4 +54,5 @@ Moreover, the data shapes the artefact’s affordance. The tactile texture of th
 
 <img width="336" height="481" alt="62b8535bfc23b59284c0a15dc5fd9dd2 1" src="https://github.com/user-attachments/assets/01505ca1-bef2-47a3-bb89-87a1b50284b6" />
 
+<img width="361" height="354" alt="4e161359374e61faaf31151b598cf4d7 1" src="https://github.com/user-attachments/assets/36d3c6b9-bdd8-4b53-a6d5-7ba4e0172e68" />
 
